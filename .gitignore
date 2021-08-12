@@ -1,0 +1,6 @@
+#Log File
+.log.txt
+
+#All file inside log folder
+
+log/**
